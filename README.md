@@ -1,5 +1,7 @@
 # AI-Sustainability-Code-Challenge
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ogunsegun/AI-Sustainability-Code-Challenge)
+
 [![Run in Cisco Cloud IDE](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-runable-icon.svg)](https://developer.cisco.com/codeexchange/devenv/ogunsegun/AI-Sustainability-Code-Challenge/)
 
 AI &amp; Sustainability Code Challenge
@@ -42,4 +44,4 @@ This dataset includes data of whole-building and end-use energy consumption, HVA
 DATA SOURCE
 Hong, Tianzhen; Luo, Na; Blum, David; Wang, Zhe (2022). A three-year building operational performance dataset for informing energy efficiency [Dataset]. Dryad. https://doi.org/10.7941/D1N33Q
 
-[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ogunsegun/AI-Sustainability-Code-Challenge)
+
